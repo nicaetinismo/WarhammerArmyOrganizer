@@ -1,0 +1,269 @@
+!Necrons
+/
+Dispersion Shield, Synaptic Disintegrator, Rod of Covenant, Heat Ray, Necrodermis, Entropic Touch, Gaze of Death, Grand Illusion, Lord of Fire, Moulder of Worlds, Pyreshards, Sentient Singularity, Swarm of Spirit Dust, Time's Arrow, Transdimensional Thunderbolt, Writhing Worldscape, Twin-linked Tesla Carbine, Shadowloom, Nebuloscope, Shield Vanes, Whip Coils, Scarab Hive, Fabricator Claw Array, Gloom Prism, Four Gauss Flux Arcs, Eternity Gate, Two Gauss Flayer Arrays, Doomsday Cannon, Death Ray, Bloodswarm Nanoscarabs, Staff of the Destroyer, Staff of Tomorrow, Empathic Obliterator, Ghostwalk Mantle, Gauntlet of Fire, Gauss Flayer, Gauss Blaster, Twin-linked Gauss Blasters, Gauss Cannon, Heavy Gauss Cannon, Twin-linked Heavy Gauss Cannon, Gauss Flux Arc, Hyperphase Sword, Mindshackle Scarabs, Particle Caster, Particle Beamer, Twin-linked Particle Beamer, Particle Shredder, Particle Whip, Phase Shifter, Phylactery, Quantum Shielding, Resurrection Orb, Sempiternal Weave, Staff of Light, Tachyon Arrow, Tesla Carbine, Tesla Cannon, Tesla Destructor, Twin-linked Tesla Destructor, Tesseract Labyrinth, Transdimensional Beamer, Voidblade, Warscythe, Abyssal Staff, Nightmare Shroud, Veil of Darkness, Eldritch Lance, Gaze of Flame, Solar Pulse, Aeonstave, Chronometron, Timesplinter Cloak, Ether Crystal, Lightning Field, Voltaic Staff, Harp of Dissonance, Seismic Crucible, Tremorstave
+/
+Phaeron, Relentless, Reanimation Protocols, Ever-living, Entropic Strike, Living Metal, Independent Character, Preferred Enemy Everything!, Ethereal Interception, Hunters from Hyperspace, Deep Strike, Infiltrate, Fearless, Jump Infantry, Open-topped, Walker, Move Through Cover, Targeting Relay, Monstrous Creature, Eternal Warrior, Immune to Natural Law, Phase Attacks, Wraithflight, Swarms, Stealth, Vulnerable to Blasts/templates, Beasts, Heavy, Skimmer, Fast, Aerial Assault, Supersonic, Sweep Attack, Symbiotic Repair, Repair Barge, Humiliating Defeat, Hyperlogical Strategy, Lord of the Storm, Mechanical Augmentation, Lord of Time, The Stars are Right, Temporal Snares, Excellent! Another Piece for the Collection, Surrogate Hosts, Adaptive Tactics, Counter Tactics, Phased Reinforcements, Cleaving Counterblow, The Vargards Duty, Mind in the Machine, Pyrrhian Eternals, Jetbike, Furious Charge
+-
+Name: Imotekh the Stormlord
+type: 0
+slot: 0
+stats: 4,4,5,5,3,2,3,10,2,3
+gear: Bloodswarm Nanoscarabs, Gauntlet of Fire, Phase Shifter, Phylactery, Sempiternal Weave, Staff of the Destroyer
+models: (Imotekh the Stormlord|min: 1|max: 1|points: 215)
+rules: Ever-living, Humiliating Defeat, Hyperlogical Strategy, Independent Character, Lord of the storm, Phaeron, Relentless, Reanimation Protocols
+-
+Name: Nemesor Zahndrekh
+type: 0
+slot: 0
+stats: 4,4,5,5,3,2,3,10,2,3
+gear: Phase Shifter, Resurrection Orb, Sempiternal Weave, Staff of Light
+models: (Nemesor Zandrekh|points: 185|min: 1|max: 1)
+rules: Adaptive Tactics, Counter Tactics, Ever-living, Independent Character, Phased Reinforcements, Reanimation Protocols
+-
+Name: Vargard Obyron
+type: 0
+slot: 0
+stats: 6,4,5,5,3,2,3,10,2,0
+gear: Ghostwalk Mantle, Sempiternal Weave, Warscythe
+models: (Vargard Obyron|points: 160|min: 1|max: 1)
+rules: Cleaving Counterblow, Ever-living, Independent Character, Reanimation Protocols, The Vargard's Duty
+-
+Name: Illuminor Szeras
+type: 0
+slot: 0
+stats: 4,4,4,4,2,2,4,10,3,0
+gear: Eldritch Lance, Gaze of Flame
+models: (Illuminor Szeras|points: 100|min: 1|max: 1)
+rules: Ever-living, Independent Character, Mechanical Augmentation, Reanimation Protocols
+-
+Name: Orikan the Diviner
+type: 0
+slot: 0
+stats: 4,4,4,4,2,2,2,10,4,3
+gear: Phase Shifter, Staff of Tomorrow, Transdimensional Beamer
+models: (Orikan the Diviner|points: 165|min: 1|max: 1)
+rules: Ever-living, Independent Character, Lord of Time, Temporal Snares, Reanimation Protocols, The Stars are Right
+-
+Name: Anrakyr the Traveller
+type: 0
+slot: 0
+stats: 4,4,5,5,3,2,3,10,3,0
+gear: Tachyon Arrow, Warscythe
+models: (Anrakyr the Traveller|points: 165|min: 1|max: 1)
+rules: Counter-attack, Ever-living, Furious Charge, Independent Character, Mind in the Machine, Reanimation Protocols
+-
+Name: Trazyn the Infinite
+type: 0
+slot: 0
+stats: 4,4,5,5,3,2,3,10,3,0
+gear: Empathic Obliterator, Mindshackle Scarabs
+models: (Trazyn the Infinite|points: 175|min: 1|max: 1)
+rules: Ever-living, 'Excellent! another Piece for the Collection', Independent Character, Phaeron, Reanimation Protocols, Surrogate Hosts
+-
+Name: Necron Overlord
+type: 0
+slot: 0
+stats: 4,4,5,5,3,2,3,10,3,0
+gear: Staff of Light
+models: (Necron Overlord|points: 90|min: 1|max: 1)
+rules: Ever-living, Independent Character, Reanimation Protocols
+upgrades:(Upgrade to Phaeron|points: 20|add: phaeron, relentless)(Hyperphase Sword|add: hyperphase sword|remove: staff of light|disable: voidblade, gauntlet of fire, warscythe)(Gauntlet of Fire|points: 5|add: gauntlet of fire|remove: staff of light|disable: hyperphase sword, voidblade, warscythe)(Voidblade|points: 10|add: voidblade, entropic touch|remove: staff of light|disable: hyperphase sword, gauntlet of fire, warscythe)(Warscythe|points: 10|add: warscythe|remove: staff of light|disable: hyperphase sword, gauntlet of fire, voidblade)(Phylactery|points: 15|add: phylactery)(Mindshackle Scarabs|points: 15|add: mindshackle scarabs)(Sempiternal Weave|points: 15|add: sempiternal weave|stats: sv -1)(Tesseract Labyrinth|points: 20|add tesseract labyrinth)(Tachyon Arrow|points: 30|add: tachyon arrow)(Resurrection Orb|points: 30|add: resurrection orb)(Phase Shifter|points: 45|add: phase shifter|stats: isv 3)
+-
+Name: Destroyer Lord
+type: 0
+slot: 0
+stats: 4,4,5,6,3,2,3,10,3,0
+gear: Warscythe
+models: (Destroyer Lord|points: 175|min: 1|max: 1)
+rules: Ever-living, Independent Character, Preferred Enemy Everything! Reanimation Protocols
+upgrades:(Gauntlet of Fire|add: gauntlet of fire|remove: warscythe|disable: voidblade, staff of light)(Staff of Light|add: staff of light|remove: warscythe|disable: voidblade, gauntlet of fire)(Voidblade|points: 5|add: voidblade|remove: warscythe|disable: gauntlet of fire, staff of light)(Sempiternal Weave|points: 15|add: sempiternal weave|stats: sv -1)(Mindshackle Scarabs|points: 20|add: mindshackle scarabs)(Tachyon Arrow|points: 30|add: tachyon arrow)(Resurrection Orb|points: 30|add: resurrection orb)
+-
+name: Necron Lord
+type: 0
+slot: 0
+stats: 4,4,5,5,1,2,2,10,3,0
+gear: Staff of Light
+models: (Necron Lord|points: 35|min: 1|max: 5)
+rules: Ever-living, Reanimation Protocols
+upgrades:(Hyperphase Sword|add: hyperphase sword|remove: staff of light|disable: voidblade, gauntlet of fire, warscythe)(Gauntlet of Fire|points: 5|add: gauntlet of fire|remove: staff of light|disable: hyperphase sword, voidblade, warscythe)(Voidblade|points: 10|add: voidblade, entropic touch|remove: staff of light|disable: hyperphase sword, gauntlet of fire, warscythe)(Warscythe|points: 10|add: warscythe|remove: staff of light|disable: hyperphase sword, gauntlet of fire, voidblade)(Mindshackle Scarabs|points: 15|add: mindshackle scarabs)(Sempiternal Weave|points: 15|add: sempiternal weave|stats: sv -1)(Tesseract Labyrinth|points: 20|add tesseract labyrinth)(Resurrection Orb|points: 30|add: resurrection orb)(Phase Shifter|points: 45|add: phase shifter|stats: isv 3)
+-
+name: Cryptek
+type: 0
+slot: 0
+stats: 4,4,4,4,1,2,1,10,4,0
+gear: Staff of Light
+models: (Cryptek|points: 25|min: 1|max: 5)
+rules: Ever-living, Reanimation Protocols
+upgrades:(Harbinger of Despair|points: 5|add: abyssal staff|remove: staff of light|disable: Harbinger of Destruction, Harbinger of Eternity, Harbinger of the Storm, Harbinger of Transmogrification|enable: Nightmare Shroud, Veil of Darkness)(Nightmare Shroud|points: 10|add: nightmare shroud|enabled: false)(Veil of Darkness|points: 30|add: veil of darkness|enabled: false)(Harbinger of Destruction|points: 10|add: eldritch lance|remove: staff of light|disable: Harbinger of Despair, Harbinger of Eternity, Harbinger of the Storm, Harbinger of Transmogrification|enable: Gaze of Flame, Solar Pulse)(Gaze of Flame|points: 10|add: gaze of flame|enabled: false)(Solar Pulse|points: 20|add: solar pulse|enabled: false)(Harbinger of Eternity|add: aeonstave|remove: staff of light|disable: Harbinger of Despair, Harbinger of Destruction, Harbinger of the Storm, Harbinger of Transmogrification|enable: Chronometron, Timesplinter Cloak)(Chronometron|points: 15|add: chronometron|enabled: false)(Timesplinter Cloak|points: 30|add: timesplinter cloak|enabled: false)(Harbinger of the Storm|add: voltaic staff|remove: staff of light|disable: Harbinger of Despair, Harbinger of Eternity, Harbinger of Destruction, Harbinger of Transmogrification|enable: Lightning Field, Ether Crystal)(Lightning Field|points: 10|add: lightning field|enabled: false)(Ether Crystal|points: 15|add: ether crystal|enabled: false)(Harbinger of Transmogrification|points: 5|add: tremorstave|remove: staff of light|disable: Harbinger of Despair, Harbinger of Eternity, Harbinger of the Storm, Harbinger of Destruction|enable: Seismic Crucible, Harp of Dissonance)(Seismic Crucible|points: 10|add: seismic crucible|enabled: false)(Harp of Dissonance|points: 25|add: harp of dissonance|enabled: false)
+-
+name: Necron Warriors
+type: 0
+slot: 1
+stats: 4,4,4,4,1,2,1,10,4,0
+gear: Gauss Flayer
+models: (Necron Warriors|points: 13|min: 5|max: 20)
+rules: Reanimation Protocols
+-
+name: Necron Immortals
+type: 0
+slot: 1
+stats: 4,4,4,4,1,2,1,10,3,0
+gear: Gauss Blaster
+models: (Necron Immortals|points: 17|min: 5|max: 10)
+rules: Reanimation Protocols
+upgrades:(Trade Blasters for Tesla Carbines|add: tesla carbine|remove: gauss blaser)
+-
+name: Catacomb Command Barge
+type: 1
+slot: 5
+stats: 0,0,0,4,11,11,11,0,0,0
+capacity: 1 independent character
+gear: Quantum Shielding, Tesla Cannon
+models: (Catacomb Command Barge|points: 80|min: 1|max: 1)
+rules: Fast, Open-topped, Skimmer, Living Metal, Sweep Attack, Symbiotic Repair
+upgrades:(Trade Tesla for Gauss Cannon|remove: tesla cannon|add: gauss cannon)
+-
+name: Ghost Ark
+type: 1
+slot: 5
+stats: 0,0,0,4,11,11,11,0,0,0
+capacity: 10 models||can only carry Necron Warriors, Lords, Crypteks, or Overlords
+gear: Quantum Shielding, Two Gauss Flayer Arrays
+models: (Ghost Ark|points: 115|min: 1|max: 1)
+rules: Open-topped, Skimmer, Living Metal, Repair Barge
+-
+name: Night Scythe
+type: 1
+slot: 5
+stats: 0,0,0,4,11,11,11,0,0,0
+capacity: 15 models
+gear: Twin-linked Tesla Destructor
+models: (Night Scythe|points: 100|min: 1|max: 1)
+rules: Fast, Skimmer, Aerial Assault, Deep Strike, Living Metal, Supersonic
+-
+name: Deathmarks
+type: 0
+slot: 2
+stats: 4,4,4,4,1,2,1,10,3,0
+gear: Synaptic Disintegrator
+models: (Deathmarks|points: 19|min: 5|max: 10)
+rules: Deep Strike, Ethereal Interception, Hunters from Hyperspace, Reanimation Protocols
+-
+name: Lychguard
+type: 0
+slot: 2
+stats: 4,4,5,5,1,2,2,10,3,0
+gear: Warscythe
+models: (Lychguard|points: 40|min: 5|max: 10)
+rules: Reanimation Protocols
+upgrades:(Swords and Shields|points: 5|add: hyperphase sword, dispersion shield|stats: isv 4|max: -1)
+-
+name: Triarch Praetorians
+type: 0
+slot: 2
+stats: 4,4,5,5,1,2,1,10,3,0
+gear: Rod of Covenant
+models: (Triarch Praetorians|points: 40|min: 5|max: 10)
+rules: Jump Infantry, Fearless, Reanimation Protocols
+upgrades:(Voidblades and Particle Casters|max: 10|add: voidblade, particle caster)
+-
+name: C'tan Shard
+type: 0
+slot: 2
+stats: 5,5,7,7,4,4,4,10,4,0
+gear: Necrodermis
+models: (C'tan Shard|points: 185|min: 1|max: 1)
+rules: Monstrous Creature, Fearless, Eternal Warrior, Immune to Natural Law
+upgrades:(Entropic Touch|points: 10|add: entropic strike)(Lord of Fire|points: 10|add: lord of fire)(Pyreshards|points: 15|add: Pyreshards)(Swarm of Spirit Dust|points: 20|add: swarm of spirit dust)(Moulder of Worlds|points: 25|add: moulder of worlds)(Sentient Singularity|points: 30|add: sentient singularity)(Writhing Worldscape|points: 35|add: Writhing Worldscape)(Grand Illusion|points: 40|add: Grand Illusion)(Time's Arrow|points: 10|add: time's arrow)(Transdimensional Thunderbolt|points: 45|Transdimensional Thunderbolt)(Gaze of Death|points: 50|add: gaze of death)
+-
+name: Flayed One Pack
+type: 0
+slot: 2
+stats: 4,1,4,4,1,2,3,10,4,0
+models: (Flayed One Pack|points: 13|min: 5|max: 20)
+rules: Deep Strike, Infiltrate, Reanimation Protocols
+-
+name: Triarch Stalker
+type: 2
+slot: 2
+stats: 0,4,4,7,11,11,11,2,3,0
+gear: Heat Ray, Quantum Shielding
+models: (Triarch Stalker|points: 150|min: 1|max: 1)
+rules: Open-topped, Walker, Living Metal, Move Through Cover, Targeting Relay
+upgrades:(Particle Shredder|points: 5|add: particle shredder|remove: heat ray)(Twin-linked Heavy Gauss Cannon|points: 15|add: twin-linked heavy gauss cannon|remove: heat ray)
+-
+name: Canoptek Wraiths
+type: 0
+slot: 3
+stats: 4,4,6,4,2,2,3,10,3,0
+gear: Phase Shifter
+models: (Canoptek Wraith|points: 35|min: 1|max: 6)
+rules: Jump Infantry, Fearless, Phase Attacks, Wraithflight
+upgrades:(Particle Caster|points: 5|add: particle caster|max: 6)(Whip Coils|points: 10|add: whip coils|max: 6)(Transdimensional Beamer|points: 15|add: Transdimensional Beamer|max: 6)
+-
+name: Canoptek Scarabs
+type: 0
+slot: 3
+stats: 2,2,3,3,3,2,4,10,5,0
+models: (Canoptek Scarab Swarm|points: 15|min: 3|max: 10)
+rules: Beasts, Entropic Strike, Fearless, Swarms
+-
+name: Tomb Blade
+type: 0
+slot: 3
+stats: 4,4,4,5,1,2,1,10,4,0
+gear: Twin-linked Tesla Carbine
+models: (Tomb Blade|points: 20|min: 1|max: 5)
+rules: Jetbike, Reanimation Protocols
+upgrades:(Trade for Gauss Blasters|add: Twin-linked Gauss Blasters|remove: Twin-linked Tesla Carbine|disable: Trade for Particle Beamers|max: -1)(Trade for Particle Beamers|points: 10|add: Particle Beamer|remove: Twin-linked Tesla Carbine|max: -1|disable: Trade for Gauss Blasters)(Nebuloscopes|points: 5|add: nebuloscope|stats: bs 1|max: -1)(Shadowlooms|points: 10|max: -1|add: shadowloom, stealth)(Shield Vanes|points: 10|max: -1|add: shield vanes|stats: sv -1)
+-
+name: Necron Destroyers
+type: 0
+slot: 3
+stats: 4,4,4,5,1,2,1,10,3,0
+gear: Gauss Cannon
+models: (Necron Destroyer|points: 40|min: 1|max: 5)
+rules: Jump Infantry, Preferred Enemy Everything!, Reanimation Protocols
+upgrades:(Upgrade to Heavy Destroyer|points: 20|max: 3|add: heavy gauss cannon)
+-
+name: Doomsday Ark
+type: 1
+slot: 4
+stats: 0,0,0,4,11,11,11,0,0,0
+gear: Doomsday Cannon, Two Gauss Flayer Arrays, Quantum Shielding
+models: (Doomsday Ark|points: 175|min: 1|max: 1)
+rules: Open-topped, Skimmer, Living Metal
+-
+name: Annihilation Barge
+type: 1
+slot: 4
+stats: 0,0,0,4,11,11,11,0,0,0
+gear: Twin-linked Tesla Destructor, Tesla Cannon, Quantum Shielding
+models: (Annihilation Barge|points: 175|min: 1|max: 1)
+rules: Open-topped, Skimmer, Living Metal
+upgrades:(Trade for Gauss Cannon|add: Gauss Cannon|remove: Tesla Cannon)
+-
+name: Necron Monolith
+type: 1
+slot: 4
+stats: 0,0,0,4,14,14,14,0,0,0
+gear: Eternity Gate, Four Gauss Flux Arcs, Particle Whip
+models: (Necron Monolith|points: 200|min: 1|max: 1)
+rules: Heavy, Tank, Skimmer, Deep Strike, Living Metal
+-
+name: Doom Scythe
+type: 1
+slot: 4
+stats: 0,0,0,4,11,11,11,0,0,0
+gear: Death Ray, Twin-linked Tesla Destructor
+models: (Doom Scythe|points: 175|min: 1|max: 1)
+rules: Fast, Skimmer, Aerial Assault, Deep Strike, Living Metal, Supersonic
+-
+name: Canoptek Spyder
+type: 0
+slot: 4
+stats: 3,3,6,6,3,2,2,10,3,0
+gear: Scarab Hive
+models: (Canoptek Spider|points: 50|min: 1|max: 3)
+rules: Monstrous Creature, Fearless
+upgrades:(Fabricator Claw Array|points: 10|add: Fabricator Claw Array|max: 3)(Gloom Prism|points: 15|add: Gloom Prism|max: 3)(Twin-linked Particle Beamer|points: 25|add: twin-linked particle beamer|max: 3)
